@@ -32,6 +32,9 @@ HLT
 ### Odd :
 <img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/ec8f0a45-3c42-438f-b7b3-e095d81a7ad7" />
 
+## Proof
+<img width="413" height="627" alt="image" src="https://github.com/user-attachments/assets/b70a369e-fa80-4556-a42e-0271cd374484" />
+
 ## Result:
 The 8085 microprocessor successfully checks whether a given number is odd or even and stores the result in memory.
 
